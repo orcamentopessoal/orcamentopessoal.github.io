@@ -1,0 +1,20 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "info.bauhaus.bauhaus",
+      "sha256_cert_fingerprints":
+        ["78:6E:2A:0C:DB:5B:D0:C7:4C:AC:F0:60:66:8A:3A:98:2B:12:96:6E:83:18:BD:FC:BA:A0:37:DC:EE:59:1B:95"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "info.bauhaus.bauhaus",
+      "sha256_cert_fingerprints":
+        ["39:69:6B:E6:52:A9:E1:B8:85:6D:18:56:C1:6B:8F:E2:08:A3:DA:CE:56:9B:E2:83:1D:BD:11:24:95:7E:4D:70"]
+    }
+  }
+]

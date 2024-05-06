@@ -1,0 +1,46 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "FY3MXZMCS7.info.bauhaus.capp"
+                ],
+                "components": [
+                    {
+                        "/": "/p/*",
+                        "comment": "Matches any product URL"
+                    },
+                    {
+                        "/": "/*/p/*",
+                        "comment": "Matches any product URL"
+                    },
+                    {
+                        "/": "/c/*",
+                        "comment": "Matches any category URL"
+                    },
+                    {
+                        "/": "/*/c/*",
+                        "comment": "Matches any category URL"
+                    },
+                    {
+                        "/": "/suche/produkte",
+                        "comment": "Matches search URL"
+                    },
+                    {
+                        "/": "/login",
+                        "comment": "Matches login URL"
+                    },
+                    {
+                        "/": "/app",
+                        "comment": "Matches app URLs"
+                    }
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "FY3MXZMCS7.info.bauhaus.capp"
+        ]
+    }
+}
